@@ -9,7 +9,7 @@ background-color: blue;
 }
 #bg2 {
 height: 50px;
-background-image: url('img/bg2.jpg');
+background-image: url('../img/bg2.jpg');
 background-repeat: repeat;
 border: 0px;
 }

@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+   <head>
+   <meta charset="utf-8">
+   <title>流程控制範例</title>
+   <script language="javascript">
+   var X =prompt("請輸入0-100的數字","");
+    if (x >=6)
+      alert("保護級!");
+    else if (x <=12)
+      alert("輔導級!");
+    else if (x >=7)
+      alert("輔導級!");
+    else (x >=18)
+      alert("成人級!")
+      </script>
+      </head>
+      </hrml>

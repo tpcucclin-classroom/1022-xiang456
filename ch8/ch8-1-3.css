@@ -79,7 +79,8 @@ figure{
     text-decoration-line: none;
 }
 #menu li a:hover{
-    background-image: url(img/btn2.png);
+    /*background-image: url(img/btn2.png);*/
+    background-color: white;
     background-size: contain;
     color: brown;
 }
